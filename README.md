@@ -1,6 +1,6 @@
 # WaveRNN CPU
 
-Based on this project - https://github.com/fatchord/WaveRNN
+Based on this project - https://github.com/fatchord/WaveRNN.
 Main difference is that it tweaked to work without CUDA.
 
 # Installation
